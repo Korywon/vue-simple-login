@@ -1,6 +1,8 @@
-# simple-login
+# Vue Simple Login
 
-## Project setup
+Simple Vue web app that demonstrates the use of Firebase authentication.
+
+### Project setup
 ```
 npm install
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
